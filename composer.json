@@ -18,7 +18,7 @@
         "illuminate/contracts": "5.5.*|5.6.*|5.7.*",
         "illuminate/support": "5.5.*|5.6.*|5.7.*",
         "graham-campbell/manager": "^4.1",
-        "aveeto/digitalocean-v2": "^2.0"
+        "aveeto/digitalocean-v2": "dev-master"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^2.1",
@@ -58,5 +58,11 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/aveeto/digitalocean-v2.git"
+        }
+    ]
 }
