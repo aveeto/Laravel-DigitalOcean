@@ -1,9 +1,13 @@
 {
-    "name": "graham-campbell/digitalocean",
+    "name": "aveeto/laravel-digitalocean",
     "description": "DigitalOcean Is A DigitalOcean Bridge For Laravel 5",
     "keywords": ["laravel", "framework", "digitalocean", "digitalocean-v2", "DigitalOceanV2", "digitalocean bridge", "bridge", "DigitalOcean", "Laravel DigitalOcean", "Laravel-DigitalOcean", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Georges Haddad",
+            "email": "sales@aveeto.com"
+        },
         {
             "name": "Graham Campbell",
             "email": "graham@alt-three.com"
